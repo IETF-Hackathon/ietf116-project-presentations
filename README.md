@@ -1,6 +1,3 @@
-# ietf116-project-presentations
-Project results presentations at end of Hackathon
-
 # IETF 116 project presentations
 
 This repo is for IETF Hackathon participants to upload project presentations. For convenience, presentation templates are provided in [PPTX](hackathon-presentation-template.pptx) and [HTML](hackathon-presentation-template.html) formats, the latter of which can be viewed [online](https://ietf-hackathon.github.io/ietf116-project-presentations/hackathon-presentation-template.html) if it is put in the [main branch](https://github.com/IETF-Hackathon/ietf116-project-presentations/). For the HTML format, a corresponding [pdf](https://github.com/IETF-Hackathon/ietf116-project-presentations/blob/pdfs-from-html/hackathon-presentation-template.pdf) is automatically generated from the HTML file by a [GitHub action](.github/workflows/main.yml) and put in the [pdfs-from-html branch](https://github.com/IETF-Hackathon/ietf116-project-presentations/tree/pdfs-from-html).
